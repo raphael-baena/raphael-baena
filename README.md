@@ -1,6 +1,5 @@
 - 👋 Hi I’m Raphaël BAENA
-- 🎓 PhD Student at IMT Atlantique
-- 👀 I’m interested in Deep Learning, Graph Signal Processing, Machine Learning, 
+- 🎓 Postdoc in Computer Vision at Imagine (ENPC)
 - 📝 google scholar: https://scholar.google.com/citations?user=8MU98WQAAAAJ&hl=en
 
 <!---
